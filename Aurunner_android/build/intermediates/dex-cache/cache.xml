@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/fthornton1867/_development/sociable/sociable_fitness/audio/aurunner/Aurunner_android/app/build/intermediates/exploded-aar/com.spotify.sdk/spotify-player/1.0.0-beta11/jars/libs/jnihelpers-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="69282b403869c13d701fde63d2971fe46efe796a">
+        <dex dex="/Users/fthornton1867/_development/sociable/sociable_fitness/audio/aurunner/Aurunner_android/app/build/intermediates/pre-dexed/debug/jnihelpers-1.0-83e06c4e917a490fb52a1432fe57e67c98cfa9f1.jar" />
+    </item>
+    <item
+        jar="/Users/fthornton1867/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/fthornton1867/_development/sociable/sociable_fitness/audio/aurunner/Aurunner_android/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-21a921bb2f03313b712de0e8280dcf1c55c3ac76.jar" />
+    </item>
+    <item
+        jar="/Users/fthornton1867/_development/sociable/sociable_fitness/audio/aurunner/Aurunner_android/app/build/intermediates/exploded-aar/com.spotify.sdk/spotify-player/1.0.0-beta11/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="38fd1f0aba035dd5a960f37af891a8ad144782d2">
+        <dex dex="/Users/fthornton1867/_development/sociable/sociable_fitness/audio/aurunner/Aurunner_android/app/build/intermediates/pre-dexed/debug/classes-7794ecd3ef5ebed05eec98d055b26d47e44a8b71.jar" />
+    </item>
+    <item
+        jar="/Users/fthornton1867/_development/sociable/sociable_fitness/audio/aurunner/Aurunner_android/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/fthornton1867/_development/sociable/sociable_fitness/audio/aurunner/Aurunner_android/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-0121829696d18ca3eb70de99e370242bfe484553.jar" />
+    </item>
+    <item
+        jar="/Users/fthornton1867/_development/sociable/sociable_fitness/audio/aurunner/Aurunner_android/app/build/intermediates/exploded-aar/com.spotify.sdk/spotify-auth/1.0.0-beta11/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b3863b278fa29b48c4eb316dea792d659e5e5aa7">
+        <dex dex="/Users/fthornton1867/_development/sociable/sociable_fitness/audio/aurunner/Aurunner_android/app/build/intermediates/pre-dexed/debug/classes-21010a6dffa0b058ef901c1850e537f15c5560d6.jar" />
+    </item>
+    <item
+        jar="/Users/fthornton1867/_development/sociable/sociable_fitness/audio/aurunner/Aurunner_android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/fthornton1867/_development/sociable/sociable_fitness/audio/aurunner/Aurunner_android/app/build/intermediates/pre-dexed/debug/classes-d13d73f16968aa02f57090162381c374942f7238.jar" />
+    </item>
+    <item
+        jar="/Users/fthornton1867/_development/sociable/sociable_fitness/audio/aurunner/Aurunner_android/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/fthornton1867/_development/sociable/sociable_fitness/audio/aurunner/Aurunner_android/app/build/intermediates/pre-dexed/debug/classes-1640922fab896f5cc04de74e08527f641284cd5a.jar" />
+    </item>
+
+</items>
