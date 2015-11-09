@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "aurunner.phitr.us.aurunner"
-        minSdkVersion 15
+        minSdkVersion 18
         targetSdkVersion 21
         versionCode 1
         versionName "1.0"
@@ -20,6 +20,7 @@ android {
 }
 repositories {
     mavenCentral()
+    jcenter()
     flatDir {
         dirs 'libs'
     }
@@ -34,6 +35,8 @@ dependencies {
 
     // This library handles music playback
     compile 'com.spotify.sdk:spotify-player:1.0.0-beta11@aar'
+
+    compile 'org.altbeacon:android-beacon-library:2+'
 
     compile 'com.android.support:appcompat-v7:21.0.3'
 }

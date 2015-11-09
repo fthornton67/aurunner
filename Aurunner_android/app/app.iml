@@ -75,6 +75,7 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.spotify.sdk/spotify-auth/1.0.0-beta11/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.spotify.sdk/spotify-player/1.0.0-beta11/jars" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.6.1/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/jacoco" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/javaResources" />
@@ -97,5 +98,6 @@
     <orderEntry type="library" exported="" name="support-v4-21.0.3" level="project" />
     <orderEntry type="library" exported="" name="spotify-player-1.0.0-beta11" level="project" />
     <orderEntry type="library" exported="" name="spotify-auth-1.0.0-beta11" level="project" />
+    <orderEntry type="library" exported="" name="android-beacon-library-2.6.1" level="project" />
   </component>
 </module>

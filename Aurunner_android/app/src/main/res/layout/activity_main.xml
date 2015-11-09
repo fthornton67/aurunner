@@ -9,19 +9,19 @@
 
     <TextView android:text="Current Track" android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/textView2" />
+        android:id="@+id/tv_currentTrack" />
     <TextView android:text="value" android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/textView2" />
+        android:id="@+id/tv_v_currentTrack" />
     <TextView android:text="Current Playback" android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/textView2" />
+        android:id="@+id/tv_currentPlayback" />
     <TextView android:text="value" android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/textView2" />
+        android:id="@+id/tv_v_currentPlayback" />
     <TextView android:text="Clients" android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/textView2" />
+        android:id="@+id/tv_clientsList" />
 
     <Switch
         android:layout_width="wrap_content"
@@ -33,5 +33,21 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:checked="false"/>
+
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Add Clients"
+            android:id="@+id/btn_devices" />
+    </LinearLayout>
+
 
 </LinearLayout>
